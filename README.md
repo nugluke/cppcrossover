@@ -25,7 +25,7 @@ Clone this repository to your local machine:
 ```bash
 git clone <repository-url>
 cd <repository-directory>
-
+```
 
 ### 2. Building the Docker Image
 Build the Docker image using the provided `Dockerfile`:
